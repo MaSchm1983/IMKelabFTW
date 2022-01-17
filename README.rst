@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+This is the git repo for the IMKelabFTW documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This readthe docs documentation is for the usage of elabFTW at the Institute of Meteorology and Climate Research (IMK) at the Karlsruhe Institute of Technology (KIT). Feel free to use the documentation or contribute to the documentation. Note, only pull requests to the pullReq branch will be considered for merging into the latest version of the documentation. 
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+The official an active version is the version with version number. Of there are changes in the latest version, there will be an update of the stable version from time to time. 
